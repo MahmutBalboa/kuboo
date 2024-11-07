@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <link rel="stylesheet" href="./yes_style.css">
+        
+    </head> 
+    <body>
+        <div class="container">
+            <div >
+                <h1 class = "header_text">YUPPPPIIIII!!!!!!!! <3 BENIM PRENSESIM <3</h1>
+            </div>
+            <div class="gif_container">
+                <img src=https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjBldDMxbTNuY3JrcGNocHYxbXp2cW40Zm5qaTM0M2ltbzd4MzhlNCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/lck9f0L8jPjRtkigYy/giphy.gif" alt="Cute animated illustration">
+            </div>
+        </div>
+       
+    </body> 
+</html>
